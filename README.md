@@ -1,5 +1,7 @@
 ### Hi there 👋 My name is Jenna.
-I'm a wizard in crafting digital worlds, in other words, I'm a web developer. My journey began with working with special needs children, where I learned to observe and find individual solutions. This experience has given me flexibility and creative thinking. Today, I create websites and applications. My dream is to develop an application that will change the lives of special needs children and their parents. This is important because I believe that everyone deserves a chance at a better future. I'm fueled by the passion to combine web development skills with my experience with special needs children. 
+I'm a wizard in crafting digital worlds, in other words, I'm a web developer. My journey began with working with special needs children, where I learned to observe and find individual solutions. This experience has given me flexibility and creative thinking. Today, I create websites and applications.
+My dream is to develop an application that will change the lives of special needs children and their parents. This is important because I believe that everyone deserves a chance at a better future.
+I'm fueled by the passion to combine web development skills with my experience with special needs children. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evgeniiasemenova) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/EvgeniiaS) 
